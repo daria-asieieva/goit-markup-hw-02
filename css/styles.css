@@ -130,9 +130,11 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+.text-transform: capitalize
 }
 
 .team-list {
+    background-color: #FFFFFF
 }
 
 .team-item {
@@ -169,6 +171,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
 }
 
 .portfolio-list {
@@ -206,11 +209,11 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color: #4d5ae5;;
 }
 
 .logo-component {
-    color: #4d5ae5;
+    color:  #f4f4fd
 }
 
 .footer-text {
