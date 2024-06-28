@@ -53,7 +53,7 @@ color: #434455;
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link-focus {
+.contacts-link:focus {
     color: #404bbf;
 }
 
