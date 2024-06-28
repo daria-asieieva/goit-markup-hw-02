@@ -12,16 +12,6 @@ a {
     text-decoration: none;
 }
 
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    overflow: hidden;
-  }
 
   button {
     cursor: pointer;
@@ -61,9 +51,12 @@ color: #434455;
 }
 
 .nav-link:hover,
-.nav-link:focus,
 .contacts-link:hover,
 .contacts-link-focus {
+    color: #404bbf;
+}
+
+.nav-link:focus {
     color: #404bbf;
 }
 
